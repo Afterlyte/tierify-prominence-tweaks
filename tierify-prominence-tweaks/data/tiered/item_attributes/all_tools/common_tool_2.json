@@ -12,7 +12,16 @@
         },
         {
             "tag": "c:hoes"
-        }
+        },
+		{
+			"id": "oxidized:rose_gold_pickaxe"
+		},
+		{
+			"id": "oxidized:rose_gold_axe"
+		},
+		{
+			"id": "oxidized:rose_gold_hoe"
+		}
     ],
     "weight": 50,
     "style": {
@@ -35,7 +44,7 @@
             "modifier": {
                 "name": "tiered:common_tool_2",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.5
+                "amount": -0.05
             },
             "optional_equipment_slots": [
                 "MAINHAND"
