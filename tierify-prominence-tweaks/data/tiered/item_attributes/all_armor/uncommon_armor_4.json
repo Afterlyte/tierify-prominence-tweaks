@@ -34,7 +34,7 @@
             ]
         },
         {
-            "type": "generic.max_health",
+            "type": "generic.armor_toughness",
             "modifier": {
                 "name": "tiered:uncommon_armor_4",
                 "operation": "ADDITION",

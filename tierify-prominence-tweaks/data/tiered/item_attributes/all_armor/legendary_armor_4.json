@@ -20,6 +20,20 @@
     },
     "attributes": [
         {
+            "type": "generic.armor",
+            "modifier": {
+                "name": "tiered:legendary_armor_4",
+                "operation": "ADDITION",
+                "amount": 3
+            },
+            "optional_equipment_slots": [
+                "FEET",
+                "LEGS",
+                "CHEST",
+                "HEAD"
+            ]
+        },
+        {
             "type": "generic.armor_toughness",
             "modifier": {
                 "name": "tiered:legendary_armor_4",
@@ -34,11 +48,11 @@
             ]
         },
         {
-            "type": "tiered:generic.durable",
+            "type": "generic.movement_speed",
             "modifier": {
                 "name": "tiered:legendary_armor_4",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.3
+                "amount": 0.04
             },
             "optional_equipment_slots": [
                 "FEET",

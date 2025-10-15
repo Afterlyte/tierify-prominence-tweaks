@@ -24,7 +24,21 @@
             "modifier": {
                 "name": "tiered:common_armor_3",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.5
+                "amount": -0.1
+            },
+            "optional_equipment_slots": [
+                "FEET",
+                "LEGS",
+                "CHEST",
+                "HEAD"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
+            "modifier": {
+                "name": "tiered:common_armor_3",
+                "operation": "MULTIPLY_BASE",
+                "amount": -0.03
             },
             "optional_equipment_slots": [
                 "FEET",

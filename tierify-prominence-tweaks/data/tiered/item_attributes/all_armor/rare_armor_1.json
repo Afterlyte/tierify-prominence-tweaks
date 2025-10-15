@@ -32,6 +32,20 @@
                 "CHEST",
                 "HEAD"
             ]
+        },
+        {
+            "type": "generic.armor_toughness",
+            "modifier": {
+                "name": "tiered:rare_armor_1",
+                "operation": "ADDITION",
+                "amount": 1
+            },
+            "optional_equipment_slots": [
+                "FEET",
+                "LEGS",
+                "CHEST",
+                "HEAD"
+            ]
         }
     ]
 }

@@ -24,7 +24,7 @@
             "modifier": {
                 "name": "tiered:legendary_armor_1",
                 "operation": "ADDITION",
-                "amount": 2
+                "amount": 3
             },
             "optional_equipment_slots": [
                 "FEET",
