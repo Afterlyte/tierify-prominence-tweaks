@@ -20,22 +20,22 @@
     },
     "attributes": [
         {
-            "type": "tiered:generic.durable",
+            "type": "tiered:generic.dig_speed",
             "modifier": {
                 "name": "tiered:rare_tool_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.15
+                "amount": 0.1
             },
             "optional_equipment_slots": [
                 "MAINHAND"
             ]
         },
         {
-            "type": "reach-entity-attributes:reach",
+            "type": "tiered:generic.durable",
             "modifier": {
                 "name": "tiered:rare_tool_1",
-                "operation": "ADDITION",
-                "amount": 1
+                "operation": "MULTIPLY_BASE",
+                "amount": 0.1
             },
             "optional_equipment_slots": [
                 "MAINHAND"
