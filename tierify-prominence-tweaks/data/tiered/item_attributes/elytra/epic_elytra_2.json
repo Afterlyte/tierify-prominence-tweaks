@@ -5,7 +5,7 @@
             "id": "minecraft:elytra"
         }
     ],
-    "weight": 8,
+    "weight": 10,
     "style": {
         "color": "dark_purple"
     },
@@ -22,11 +22,11 @@
             ]
         },
         {
-            "type": "generic.movement_speed",
+            "type": "generic.armor",
             "modifier": {
                 "name": "tiered:epic_elytra_2",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.05
+                "operation": "ADDITION",
+                "amount": 2
             },
             "optional_equipment_slots": [
                 "CHEST"

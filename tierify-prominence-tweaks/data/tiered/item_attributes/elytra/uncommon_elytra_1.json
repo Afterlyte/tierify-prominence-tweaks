@@ -11,11 +11,22 @@
     },
     "attributes": [
         {
+            "type": "generic.armor",
+            "modifier": {
+                "name": "tiered:uncommon_elytra_1",
+                "operation": "ADDITION",
+                "amount": -1
+            },
+            "optional_equipment_slots": [
+                "CHEST"
+            ]
+        },
+        {
             "type": "tiered:generic.durable",
             "modifier": {
                 "name": "tiered:uncommon_elytra_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.0355
+                "amount": 0.05
             },
             "optional_equipment_slots": [
                 "CHEST"

@@ -5,17 +5,17 @@
             "id": "minecraft:elytra"
         }
     ],
-    "weight": 0,
+    "weight": 3,
     "style": {
         "color": "red"
     },
     "attributes": [
         {
-            "type": "generic.max_health",
+            "type": "generic.armor",
             "modifier": {
                 "name": "tiered:mythic_elytra_1",
                 "operation": "ADDITION",
-                "amount": 6
+                "amount": 4
             },
             "optional_equipment_slots": [
                 "CHEST"
@@ -26,7 +26,7 @@
             "modifier": {
                 "name": "tiered:mythic_elytra_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.1
+                "amount": 0.05
             },
             "optional_equipment_slots": [
                 "CHEST"
