@@ -8,7 +8,7 @@
             "tag": "c:crossbows"
         }
     ],
-    "weight": 8,
+    "weight": 10,
     "style": {
         "color": "dark_purple"
     },
@@ -18,11 +18,10 @@
             "modifier": {
                 "name": "tiered:epic_ranged_2",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.15
+                "amount": 0.2
             },
             "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+                "MAINHAND"
             ]
         },
         {
@@ -30,11 +29,10 @@
             "modifier": {
                 "name": "tiered:epic_ranged_2",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.1
+                "amount": 0.15
             },
             "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+                "MAINHAND"
             ]
         },
         {
@@ -45,8 +43,7 @@
                 "amount": 0.05
             },
             "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+                "MAINHAND"
             ]
         }
     ]

@@ -18,11 +18,10 @@
             "modifier": {
                 "name": "tiered:common_ranged_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.05
+                "amount": -0.1
             },
             "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+                "MAINHAND"
             ]
         },
         {
@@ -30,11 +29,10 @@
             "modifier": {
                 "name": "tiered:common_ranged_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.05
+                "amount": -0.1
             },
             "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+                "MAINHAND"
             ]
         },
         {
@@ -42,11 +40,10 @@
             "modifier": {
                 "name": "tiered:common_ranged_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.05
+                "amount": -0.1
             },
             "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+                "MAINHAND"
             ]
         }
     ]

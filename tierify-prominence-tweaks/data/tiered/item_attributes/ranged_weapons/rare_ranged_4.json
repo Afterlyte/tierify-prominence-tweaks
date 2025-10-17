@@ -8,7 +8,7 @@
             "tag": "c:crossbows"
         }
     ],
-    "weight": 15,
+    "weight": 20,
     "style": {
         "color": "blue"
     },
@@ -18,11 +18,10 @@
             "modifier": {
                 "name": "tiered:rare_ranged_4",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.05
+                "amount": 0.1
             },
             "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+                "MAINHAND"
             ]
         },
         {
@@ -30,23 +29,21 @@
             "modifier": {
                 "name": "tiered:rare_ranged_4",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.05
+                "amount": 0.1
             },
             "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+                "MAINHAND"
             ]
         },
         {
-            "type": "generic.movement_speed",
+            "type": "tiered:generic.crit_chance",
             "modifier": {
                 "name": "tiered:rare_ranged_4",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.05
+                "amount": 0.1
             },
             "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+                "MAINHAND"
             ]
         }
     ]
