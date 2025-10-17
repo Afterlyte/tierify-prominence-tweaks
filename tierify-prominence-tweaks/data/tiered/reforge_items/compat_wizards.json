@@ -1,0 +1,8 @@
+{
+	"items": [
+		"wizards:staff_wizard"
+	],
+	"base": [
+		"minecraft:quartz"
+	]
+}

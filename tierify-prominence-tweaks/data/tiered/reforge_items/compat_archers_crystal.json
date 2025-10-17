@@ -1,0 +1,9 @@
+{
+	"items": [
+		"archers:crystal_shortbow",
+		"archers:crystal_longbow"
+	],
+	"base": [
+		"betterend:crystal_shards"
+	]
+}
