@@ -13,15 +13,15 @@
         {
             "tag": "c:hoes"
         },
-		{
-			"id": "oxidized:rose_gold_pickaxe"
-		},
-		{
-			"id": "oxidized:rose_gold_axe"
-		},
-		{
-			"id": "oxidized:rose_gold_hoe"
-		}
+        {
+            "id": "oxidized:rose_gold_pickaxe"
+        },
+        {
+            "id": "oxidized:rose_gold_axe"
+        },
+        {
+            "id": "oxidized:rose_gold_hoe"
+        }
     ],
     "weight": 50,
     "style": {

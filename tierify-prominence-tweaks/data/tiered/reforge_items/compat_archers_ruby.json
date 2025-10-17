@@ -1,9 +1,9 @@
 {
-	"items": [
-		"archers:ruby_rapid_crossbow",
-		"archers:ruby_heavy_crossbow"
-	],
-	"base": [
-		"betternether:nether_ruby"
-	]
+    "items": [
+        "archers:ruby_rapid_crossbow",
+        "archers:ruby_heavy_crossbow"
+    ],
+    "base": [
+        "betternether:nether_ruby"
+    ]
 }

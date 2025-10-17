@@ -1,9 +1,9 @@
 {
-	"items": [
-		"prominent:orion",
-		"prominent:vaazkar"
-	],
-	"base": [
-		"prominent:encased_remnant"
-	]
+    "items": [
+        "prominent:orion",
+        "prominent:vaazkar"
+    ],
+    "base": [
+        "prominent:encased_remnant"
+    ]
 }

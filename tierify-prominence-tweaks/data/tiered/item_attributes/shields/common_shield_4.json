@@ -3,7 +3,7 @@
     "verifiers": [
         {
             "tag": "c:shields"
-		}
+        }
     ],
     "weight": 50,
     "style": {
@@ -19,7 +19,7 @@
             },
             "optional_equipment_slots": [
                 "MAINHAND",
-				"OFFHAND"
+                "OFFHAND"
             ]
         }
     ]
