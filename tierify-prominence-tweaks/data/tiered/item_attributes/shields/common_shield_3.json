@@ -3,7 +3,7 @@
     "verifiers": [
         {
             "tag": "c:shields"
-        }
+		}
     ],
     "weight": 50,
     "style": {
@@ -11,27 +11,15 @@
     },
     "attributes": [
         {
-            "type": "generic.armor",
-            "modifier": {
-                "name": "tiered:common_shield_3",
-                "operation": "ADDITION",
-                "amount": -2
-            },
-            "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
-            ]
-        },
-        {
             "type": "tiered:generic.durable",
             "modifier": {
                 "name": "tiered:common_shield_3",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.05
+                "amount": -0.1
             },
             "optional_equipment_slots": [
                 "MAINHAND",
-                "OFFHAND"
+				"OFFHAND"
             ]
         },
         {
@@ -39,11 +27,11 @@
             "modifier": {
                 "name": "tiered:common_shield_3",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.035
+                "amount": -0.03
             },
             "optional_equipment_slots": [
                 "MAINHAND",
-                "OFFHAND"
+				"OFFHAND"
             ]
         }
     ]

@@ -3,7 +3,7 @@
     "verifiers": [
         {
             "tag": "c:shields"
-        }
+		}
     ],
     "weight": 35,
     "style": {
@@ -19,19 +19,7 @@
             },
             "optional_equipment_slots": [
                 "MAINHAND",
-                "OFFHAND"
-            ]
-        },
-        {
-            "type": "tiered:generic.durable",
-            "modifier": {
-                "name": "tiered:uncommon_shield_3",
-                "operation": "MULTIPLY_BASE",
-                "amount": -0.1
-            },
-            "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
+				"OFFHAND"
             ]
         },
         {
@@ -39,11 +27,11 @@
             "modifier": {
                 "name": "tiered:uncommon_shield_3",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.1
+                "amount": 0.02
             },
             "optional_equipment_slots": [
                 "MAINHAND",
-                "OFFHAND"
+				"OFFHAND"
             ]
         }
     ]

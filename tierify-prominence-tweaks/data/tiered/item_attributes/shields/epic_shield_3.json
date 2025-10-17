@@ -3,9 +3,9 @@
     "verifiers": [
         {
             "tag": "c:shields"
-        }
+		}
     ],
-    "weight": 8,
+    "weight": 10,
     "style": {
         "color": "dark_purple"
     },
@@ -15,11 +15,11 @@
             "modifier": {
                 "name": "tiered:epic_shield_3",
                 "operation": "ADDITION",
-                "amount": 1
+                "amount": 2
             },
             "optional_equipment_slots": [
                 "MAINHAND",
-                "OFFHAND"
+				"OFFHAND"
             ]
         },
         {
@@ -27,11 +27,11 @@
             "modifier": {
                 "name": "tiered:epic_shield_3",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.15
+                "amount": 0.2
             },
             "optional_equipment_slots": [
                 "MAINHAND",
-                "OFFHAND"
+				"OFFHAND"
             ]
         }
     ]

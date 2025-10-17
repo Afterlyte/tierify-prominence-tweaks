@@ -36,7 +36,7 @@
         {
             "type": "tiered:generic.durable",
             "modifier": {
-                "name": "tiered:rare_armor_1",
+                "name": "tiered:rare_armor_3",
                 "operation": "MULTIPLY_BASE",
                 "amount": 0.15
             },
