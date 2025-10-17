@@ -11,22 +11,11 @@
     },
     "attributes": [
         {
-            "type": "generic.attack_damage",
+            "type": "generic.luck",
             "modifier": {
                 "name": "tiered:uncommon_melee_2",
-                "operation": "MULTIPLY_BASE",
-                "amount": -0.15
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
-            "type": "tiered:generic.crit_chance",
-            "modifier": {
-                "name": "tiered:uncommon_melee_2",
-                "operation": "MULTIPLY_BASE",
-                "amount": -0.05
+                "operation": "ADDITION",
+                "amount": -1
             },
             "optional_equipment_slots": [
                 "MAINHAND"
@@ -37,7 +26,7 @@
             "modifier": {
                 "name": "tiered:uncommon_melee_2",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.15
+                "amount": 0.05
             },
             "optional_equipment_slots": [
                 "MAINHAND"
