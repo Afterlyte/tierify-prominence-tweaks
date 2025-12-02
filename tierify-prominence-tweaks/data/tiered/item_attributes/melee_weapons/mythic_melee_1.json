@@ -22,10 +22,10 @@
             ]
         },
         {
-            "type": "tiered:generic.crit_chance",
+            "type": "zenith_attributes:crit_chance",
             "modifier": {
                 "name": "tiered:mythic_melee_1",
-                "operation": "MULTIPLY_BASE",
+                "operation": "ADDITION",
                 "amount": 0.2
             },
             "optional_equipment_slots": [
