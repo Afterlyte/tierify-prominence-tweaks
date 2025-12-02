@@ -37,7 +37,7 @@
             "modifier": {
                 "name": "tiered:rare_melee_4",
                 "operation": "ADDITION",
-                "amount": 0.05
+                "amount": 0.04
             },
             "optional_equipment_slots": [
                 "MAINHAND"

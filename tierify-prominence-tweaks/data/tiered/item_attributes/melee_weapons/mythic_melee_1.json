@@ -26,7 +26,7 @@
             "modifier": {
                 "name": "tiered:mythic_melee_1",
                 "operation": "ADDITION",
-                "amount": 0.2
+                "amount": 0.1
             },
             "optional_equipment_slots": [
                 "MAINHAND"

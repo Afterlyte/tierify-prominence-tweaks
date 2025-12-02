@@ -15,7 +15,7 @@
             "modifier": {
                 "name": "tiered:legendary_melee_3",
                 "operation": "ADDITION",
-                "amount": 0.15
+                "amount": 0.08
             },
             "optional_equipment_slots": [
                 "MAINHAND"
