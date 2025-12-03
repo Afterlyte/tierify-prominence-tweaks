@@ -29,7 +29,7 @@
             "modifier": {
                 "name": "tiered:common_ranged_1",
                 "operation": "ADDITION",
-                "amount": -0.1
+                "amount": -0.05
             },
             "optional_equipment_slots": [
                 "MAINHAND"

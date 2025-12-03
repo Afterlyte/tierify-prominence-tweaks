@@ -18,7 +18,7 @@
             "modifier": {
                 "name": "tiered:rare_ranged_2",
                 "operation": "ADDITION",
-                "amount": 0.1
+                "amount": 0.04
             },
             "optional_equipment_slots": [
                 "MAINHAND"
