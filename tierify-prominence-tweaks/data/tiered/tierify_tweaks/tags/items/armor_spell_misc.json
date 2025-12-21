@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "death_knights:initiate_armor_head",
+        "death_knights:initiate_armor_chest",
+        "death_knights:initiate_armor_legs",
+        "death_knights:initiate_armor_feet",
+        "spellbladenext:gleaming_head",
+        "spellbladenext:blazing_head",
+        "spellbladenext:frozen_head",
+        "spellbladenext:ashherald_head",
+        "spellbladenext:ashherald_chest",
+        "spellbladenext:ashherald_legs",
+        "spellbladenext:ashherald_feet",
+        "spellbladenext:arcaneherald_head",
+        "spellbladenext:arcaneherald_chest",
+        "spellbladenext:arcaneherald_legs",
+        "spellbladenext:arcaneherald_feet",
+        "spellbladenext:frostherald_head",
+        "spellbladenext:frostherald_chest",
+        "spellbladenext:frostherald_legs",
+        "spellbladenext:frostherald_feet"
+    ]
+}

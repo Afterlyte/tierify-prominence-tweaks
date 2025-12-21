@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        "wizards:frost_robe_head",
+        "wizards:frost_robe_chest",
+        "wizards:frost_robe_legs",
+        "wizards:frost_robe_feet",
+        "wizards:netherite_frost_robe_head",
+        "wizards:netherite_frost_robe_chest",
+        "wizards:netherite_frost_robe_legs",
+        "wizards:netherite_frost_robe_feet",
+        "spellbladenext:runefrosted_head",
+        "spellbladenext:runefrosted_chest",
+        "spellbladenext:runefrosted_legs",
+        "spellbladenext:runefrosted_feet",
+        "spellbladenext:frozen_chest",
+        "spellbladenext:frozen_legs",
+        "spellbladenext:frozen_feet"
+    ]
+}

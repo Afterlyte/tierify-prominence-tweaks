@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "wizards:wizard_robe_head",
+        "wizards:wizard_robe_chest",
+        "wizards:wizard_robe_legs",
+        "wizards:wizard_robe_feet",
+        "spellbladenext:magus_head",
+        "spellbladenext:magus_chest",
+        "spellbladenext:magus_legs",
+        "spellbladenext:magus_feet"
+    ]
+}
