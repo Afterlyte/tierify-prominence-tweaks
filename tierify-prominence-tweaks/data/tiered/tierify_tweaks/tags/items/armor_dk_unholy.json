@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "death_knights:plaguebringer_armor_head",
+        "death_knights:plaguebringer_armor_chest",
+        "death_knights:plaguebringer_armor_legs",
+        "death_knights:plaguebringer_armor_feet",
+        "death_knights:blightbringer_armor_head",
+        "death_knights:blightbringer_armor_chest",
+        "death_knights:blightbringer_armor_legs",
+        "death_knights:blightbringer_armor_feet"
+    ]
+}

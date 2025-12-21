@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "death_knights:frozen_champion_armor_head",
+        "death_knights:frozen_champion_armor_chest",
+        "death_knights:frozen_champion_armor_legs",
+        "death_knights:frozen_champion_armor_feet",
+        "death_knights:icebound_knight_armor_head",
+        "death_knights:icebound_knight_armor_chest",
+        "death_knights:icebound_knight_armor_legs",
+        "death_knights:icebound_knight_armor_feet"
+    ]
+}

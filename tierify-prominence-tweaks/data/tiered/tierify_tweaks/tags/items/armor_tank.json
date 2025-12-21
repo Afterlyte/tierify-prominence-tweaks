@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        "advancednetherite:netherite_iron_helmet",
+        "advancednetherite:netherite_iron_chestplate",
+        "advancednetherite:netherite_iron_leggings",
+        "advancednetherite:netherite_iron_boots",
+        "advancednetherite:netherite_gold_helmet",
+        "advancednetherite:netherite_gold_chestplate",
+        "advancednetherite:netherite_gold_leggings",
+        "advancednetherite:netherite_gold_boots",
+        "advancednetherite:netherite_emerald_helmet",
+        "advancednetherite:netherite_emerald_chestplate",
+        "advancednetherite:netherite_emerald_leggings",
+        "advancednetherite:netherite_emerald_boots",
+        "advancednetherite:netherite_diamond_helmet",
+        "advancednetherite:netherite_diamond_chestplate",
+        "advancednetherite:netherite_diamond_leggings",
+        "advancednetherite:netherite_diamond_boots",
+        "deeperdarker:warden_helmet",
+        "deeperdarker:warden_chestplate",
+        "deeperdarker:warden_leggings",
+        "deeperdarker:warden_boots",
+        "mythicupgrades:sapphire_helmet",
+        "mythicupgrades:sapphire_chestplate",
+        "mythicupgrades:sapphire_leggings",
+        "mythicupgrades:sapphire_boots"
+    ]
+}
