@@ -1,10 +1,6 @@
 {
     "replace": false,
     "values": [
-        "death_knights:initiate_armor_head",
-        "death_knights:initiate_armor_chest",
-        "death_knights:initiate_armor_legs",
-        "death_knights:initiate_armor_feet",
         "spellbladenext:gleaming_head",
         "spellbladenext:blazing_head",
         "spellbladenext:frozen_head",

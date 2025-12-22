@@ -1,6 +1,10 @@
 {
     "replace": false,
     "values": [
+        "death_knights:initiate_armor_head",
+        "death_knights:initiate_armor_chest",
+        "death_knights:initiate_armor_legs",
+        "death_knights:initiate_armor_feet",
         "death_knights:crimson_guard_armor_head",
         "death_knights:crimson_guard_armor_chest",
         "death_knights:crimson_guard_armor_legs",
