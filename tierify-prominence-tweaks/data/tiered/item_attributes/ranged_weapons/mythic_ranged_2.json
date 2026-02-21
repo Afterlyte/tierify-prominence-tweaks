@@ -14,7 +14,7 @@
     },
     "attributes": [
         {
-            "type": "tiered:generic.range_attack_damage",
+            "type": "ranged_weapon:damage",
             "modifier": {
                 "name": "tiered:mythic_ranged_2",
                 "operation": "MULTIPLY_BASE",
