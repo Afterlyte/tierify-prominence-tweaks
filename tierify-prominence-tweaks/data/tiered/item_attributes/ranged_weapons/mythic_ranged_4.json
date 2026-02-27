@@ -6,6 +6,9 @@
         },
         {
             "tag": "c:crossbows"
+        },
+        {
+            "tag": "c:ranged_weapons"
         }
     ],
     "weight": 1,
