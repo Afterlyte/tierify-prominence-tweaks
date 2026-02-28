@@ -8,7 +8,11 @@
         "indrev:steel_helmet",
         "indrev:steel_chestplate",
         "indrev:steel_leggings",
-        "indrev:steel_boots"
+        "indrev:steel_boots",
+        "soulsweapons:hunter_pistol",
+        "soulsweapons:blunderbuss",
+        "soulsweapons:gatling_gun",
+        "soulsweapons:hunter_cannon"
     ],
     "base": [
         "techreborn:steel_ingot"

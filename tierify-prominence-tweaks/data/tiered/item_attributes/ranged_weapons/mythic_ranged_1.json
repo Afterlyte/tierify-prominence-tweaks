@@ -6,6 +6,9 @@
         },
         {
             "tag": "c:crossbows"
+        },
+        {
+            "tag": "c:ranged_weapons"
         }
     ],
     "weight": 1,
@@ -14,11 +17,11 @@
     },
     "attributes": [
         {
-            "type": "tiered:generic.range_attack_damage",
+            "type": "ranged_weapon:damage",
             "modifier": {
                 "name": "tiered:mythic_ranged_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.5
+                "amount": 0.3
             },
             "optional_equipment_slots": [
                 "MAINHAND"

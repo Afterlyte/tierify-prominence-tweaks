@@ -6,6 +6,9 @@
         },
         {
             "tag": "c:crossbows"
+        },
+        {
+            "tag": "c:ranged_weapons"
         }
     ],
     "weight": 15,
@@ -14,7 +17,7 @@
     },
     "attributes": [
         {
-            "type": "tiered:generic.range_attack_damage",
+            "type": "ranged_weapon:damage",
             "modifier": {
                 "name": "tiered:rare_ranged_4",
                 "operation": "MULTIPLY_BASE",
