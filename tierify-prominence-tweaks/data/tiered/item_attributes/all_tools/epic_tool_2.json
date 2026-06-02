@@ -29,11 +29,11 @@
     },
     "attributes": [
         {
-            "type": "tiered:generic.durable",
+            "type": "tiered:generic.dig_speed",
             "modifier": {
                 "name": "tiered:epic_tool_2",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.2
+                "amount": 0.15
             },
             "optional_equipment_slots": [
                 "MAINHAND"
@@ -44,18 +44,7 @@
             "modifier": {
                 "name": "tiered:epic_tool_2",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.04
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
-            "type": "tiered:generic.dig_speed",
-            "modifier": {
-                "name": "tiered:epic_tool_2",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.15
+                "amount": 0.06
             },
             "optional_equipment_slots": [
                 "MAINHAND"

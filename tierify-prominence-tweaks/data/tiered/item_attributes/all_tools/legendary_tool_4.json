@@ -29,17 +29,6 @@
     },
     "attributes": [
         {
-            "type": "tiered:generic.durable",
-            "modifier": {
-                "name": "tiered:legendary_tool_4",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.3
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
             "type": "tiered:generic.dig_speed",
             "modifier": {
                 "name": "tiered:legendary_tool_4",
@@ -51,11 +40,11 @@
             ]
         },
         {
-            "type": "generic.movement_speed",
+            "type": "reach-entity-attributes:reach",
             "modifier": {
                 "name": "tiered:legendary_tool_4",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.05
+                "operation": "ADDITION",
+                "amount": 2.5
             },
             "optional_equipment_slots": [
                 "MAINHAND"

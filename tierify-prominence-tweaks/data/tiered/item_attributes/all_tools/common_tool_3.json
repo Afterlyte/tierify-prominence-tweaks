@@ -44,18 +44,7 @@
             "modifier": {
                 "name": "tiered:common_tool_3",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.03
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
-            "type": "reach-entity-attributes:reach",
-            "modifier": {
-                "name": "tiered:common_tool_3",
-                "operation": "ADDITION",
-                "amount": -1
+                "amount": -0.02
             },
             "optional_equipment_slots": [
                 "MAINHAND"
