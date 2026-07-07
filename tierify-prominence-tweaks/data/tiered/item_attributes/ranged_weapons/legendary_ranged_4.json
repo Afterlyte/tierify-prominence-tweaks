@@ -28,22 +28,11 @@
             ]
         },
         {
-            "type": "tiered:generic.durable",
-            "modifier": {
-                "name": "tiered:legendary_ranged_4",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.3
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
             "type": "generic.movement_speed",
             "modifier": {
                 "name": "tiered:legendary_ranged_4",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.1
+                "amount": 0.08
             },
             "optional_equipment_slots": [
                 "MAINHAND"

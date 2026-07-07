@@ -22,6 +22,17 @@
             ]
         },
         {
+            "type": "generic.luck",
+            "modifier": {
+                "name": "tiered:rare_melee_1",
+                "operation": "ADDITION",
+                "amount": 2
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
             "type": "zenith_attributes:crit_chance",
             "modifier": {
                 "name": "tiered:rare_melee_1",

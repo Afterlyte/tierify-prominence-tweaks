@@ -28,22 +28,11 @@
             ]
         },
         {
-            "type": "tiered:generic.durable",
-            "modifier": {
-                "name": "tiered:epic_ranged_4",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.2
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
             "type": "generic.movement_speed",
             "modifier": {
                 "name": "tiered:epic_ranged_4",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.05
+                "amount": 0.06
             },
             "optional_equipment_slots": [
                 "MAINHAND"
