@@ -15,7 +15,7 @@
             "modifier": {
                 "name": "tiered:rare_shield_1",
                 "operation": "ADDITION",
-                "amount": 1
+                "amount": 1.5
             },
             "optional_equipment_slots": [
                 "MAINHAND",

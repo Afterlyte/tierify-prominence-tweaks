@@ -23,23 +23,11 @@
             ]
         },
         {
-            "type": "generic.armor_toughness",
+            "type": "generic.knockback_resistance",
             "modifier": {
                 "name": "tiered:epic_shield_4",
                 "operation": "ADDITION",
-                "amount": 1
-            },
-            "optional_equipment_slots": [
-                "MAINHAND",
-                "OFFHAND"
-            ]
-        },
-        {
-            "type": "generic.movement_speed",
-            "modifier": {
-                "name": "tiered:epic_shield_4",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.03
+                "amount": 0.3
             },
             "optional_equipment_slots": [
                 "MAINHAND",

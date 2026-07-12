@@ -28,11 +28,11 @@
             ]
         },
         {
-            "type": "tiered:generic.durable",
+            "type": "ranged_weapon:haste",
             "modifier": {
                 "name": "tiered:rare_ranged_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.1
+                "amount": 0.04
             },
             "optional_equipment_slots": [
                 "MAINHAND"

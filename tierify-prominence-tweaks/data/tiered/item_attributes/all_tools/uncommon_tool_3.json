@@ -33,18 +33,18 @@
             "modifier": {
                 "name": "tiered:uncommon_tool_3",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.05
+                "amount": 0.05
             },
             "optional_equipment_slots": [
                 "MAINHAND"
             ]
         },
         {
-            "type": "generic.movement_speed",
+            "type": "reach-entity-attributes:reach",
             "modifier": {
                 "name": "tiered:uncommon_tool_3",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.02
+                "operation": "ADDITION",
+                "amount": 1
             },
             "optional_equipment_slots": [
                 "MAINHAND"

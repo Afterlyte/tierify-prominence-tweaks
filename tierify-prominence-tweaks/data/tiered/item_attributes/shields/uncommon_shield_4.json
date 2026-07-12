@@ -15,7 +15,7 @@
             "modifier": {
                 "name": "tiered:uncommon_shield_4",
                 "operation": "ADDITION",
-                "amount": -1
+                "amount": 1
             },
             "optional_equipment_slots": [
                 "MAINHAND",
@@ -23,11 +23,11 @@
             ]
         },
         {
-            "type": "generic.armor_toughness",
+            "type": "generic.knockback_resistance",
             "modifier": {
                 "name": "tiered:uncommon_shield_4",
                 "operation": "ADDITION",
-                "amount": 1
+                "amount": 0.1
             },
             "optional_equipment_slots": [
                 "MAINHAND",

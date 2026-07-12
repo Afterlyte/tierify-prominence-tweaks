@@ -40,17 +40,6 @@
             ]
         },
         {
-            "type": "generic.movement_speed",
-            "modifier": {
-                "name": "tiered:mythic_tool_3",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.1
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
             "type": "reach-entity-attributes:reach",
             "modifier": {
                 "name": "tiered:mythic_tool_3",

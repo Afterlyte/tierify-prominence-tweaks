@@ -22,33 +22,22 @@
             ]
         },
         {
+            "type": "generic.luck",
+            "modifier": {
+                "name": "tiered:mythic_melee_1",
+                "operation": "ADDITION",
+                "amount": 5
+            },
+            "optional_equipment_slots": [
+                "MAINHAND"
+            ]
+        },
+        {
             "type": "zenith_attributes:crit_chance",
             "modifier": {
                 "name": "tiered:mythic_melee_1",
                 "operation": "ADDITION",
                 "amount": 0.1
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
-            "type": "generic.luck",
-            "modifier": {
-                "name": "tiered:mythic_melee_1",
-                "operation": "ADDITION",
-                "amount": 3
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
-            "type": "tiered:generic.durable",
-            "modifier": {
-                "name": "tiered:mythic_melee_1",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.5
             },
             "optional_equipment_slots": [
                 "MAINHAND"

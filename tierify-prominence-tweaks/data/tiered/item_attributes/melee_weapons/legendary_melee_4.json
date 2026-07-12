@@ -22,22 +22,22 @@
             ]
         },
         {
-            "type": "tiered:generic.durable",
+            "type": "generic.luck",
             "modifier": {
                 "name": "tiered:legendary_melee_4",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.3
+                "operation": "ADDITION",
+                "amount": 4
             },
             "optional_equipment_slots": [
                 "MAINHAND"
             ]
         },
         {
-            "type": "generic.luck",
+            "type": "additionalentityattributes:player.critical_bonus_damage",
             "modifier": {
                 "name": "tiered:legendary_melee_4",
                 "operation": "ADDITION",
-                "amount": 2
+                "amount": 0.08
             },
             "optional_equipment_slots": [
                 "MAINHAND"

@@ -15,18 +15,18 @@
             "modifier": {
                 "name": "tiered:mythic_elytra_2",
                 "operation": "ADDITION",
-                "amount": 4
+                "amount": 3
             },
             "optional_equipment_slots": [
                 "CHEST"
             ]
         },
         {
-            "type": "generic.armor_toughness",
+            "type": "generic.movement_speed",
             "modifier": {
                 "name": "tiered:mythic_elytra_2",
-                "operation": "ADDITION",
-                "amount": 2
+                "operation": "MULTIPLY_BASE",
+                "amount": 0.05
             },
             "optional_equipment_slots": [
                 "CHEST"

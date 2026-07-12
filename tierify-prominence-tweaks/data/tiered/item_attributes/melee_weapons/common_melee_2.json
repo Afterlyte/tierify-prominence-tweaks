@@ -15,18 +15,18 @@
             "modifier": {
                 "name": "tiered:common_melee_2",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.1
+                "amount": -0.05
             },
             "optional_equipment_slots": [
                 "MAINHAND"
             ]
         },
         {
-            "type": "zenith_attributes:crit_chance",
+            "type": "additionalentityattributes:player.critical_bonus_damage",
             "modifier": {
                 "name": "tiered:common_melee_2",
                 "operation": "ADDITION",
-                "amount": -0.05
+                "amount": -0.02
             },
             "optional_equipment_slots": [
                 "MAINHAND"
@@ -37,7 +37,7 @@
             "modifier": {
                 "name": "tiered:common_melee_2",
                 "operation": "ADDITION",
-                "amount": -2
+                "amount": -1
             },
             "optional_equipment_slots": [
                 "MAINHAND"

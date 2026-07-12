@@ -29,22 +29,11 @@
     },
     "attributes": [
         {
-            "type": "tiered:generic.durable",
+            "type": "tiered:generic.dig_speed",
             "modifier": {
                 "name": "tiered:common_tool_4",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.1
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
-            "type": "reach-entity-attributes:reach",
-            "modifier": {
-                "name": "tiered:common_tool_4",
-                "operation": "ADDITION",
-                "amount": -1
+                "amount": -0.05
             },
             "optional_equipment_slots": [
                 "MAINHAND"
@@ -55,7 +44,7 @@
             "modifier": {
                 "name": "tiered:common_tool_4",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.03
+                "amount": -0.02
             },
             "optional_equipment_slots": [
                 "MAINHAND"

@@ -22,22 +22,22 @@
             ]
         },
         {
-            "type": "zenith_attributes:crit_chance",
+            "type": "generic.luck",
             "modifier": {
                 "name": "tiered:epic_melee_2",
                 "operation": "ADDITION",
-                "amount": 0.06
+                "amount": 3
             },
             "optional_equipment_slots": [
                 "MAINHAND"
             ]
         },
         {
-            "type": "tiered:generic.durable",
+            "type": "zenith_attributes:crit_chance",
             "modifier": {
                 "name": "tiered:epic_melee_2",
-                "operation": "MULTIPLY_BASE",
-                "amount": 0.2
+                "operation": "ADDITION",
+                "amount": 0.06
             },
             "optional_equipment_slots": [
                 "MAINHAND"

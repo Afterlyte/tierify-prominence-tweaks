@@ -15,18 +15,18 @@
             "modifier": {
                 "name": "tiered:legendary_elytra_2",
                 "operation": "ADDITION",
-                "amount": 3
+                "amount": 2.5
             },
             "optional_equipment_slots": [
                 "CHEST"
             ]
         },
         {
-            "type": "generic.armor_toughness",
+            "type": "generic.movement_speed",
             "modifier": {
                 "name": "tiered:legendary_elytra_2",
-                "operation": "ADDITION",
-                "amount": 1
+                "operation": "MULTIPLY_BASE",
+                "amount": 0.04
             },
             "optional_equipment_slots": [
                 "CHEST"

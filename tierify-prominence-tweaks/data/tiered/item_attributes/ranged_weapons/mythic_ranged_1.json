@@ -28,22 +28,11 @@
             ]
         },
         {
-            "type": "zenith_attributes:crit_chance",
-            "modifier": {
-                "name": "tiered:mythic_ranged_1",
-                "operation": "ADDITION",
-                "amount": 0.1
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
-            "type": "tiered:generic.durable",
+            "type": "ranged_weapon:haste",
             "modifier": {
                 "name": "tiered:mythic_ranged_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.5
+                "amount": 0.1
             },
             "optional_equipment_slots": [
                 "MAINHAND"

@@ -22,22 +22,22 @@
             ]
         },
         {
-            "type": "zenith_attributes:crit_chance",
+            "type": "generic.luck",
             "modifier": {
                 "name": "tiered:legendary_melee_1",
                 "operation": "ADDITION",
-                "amount": 0.08
+                "amount": 4
             },
             "optional_equipment_slots": [
                 "MAINHAND"
             ]
         },
         {
-            "type": "generic.luck",
+            "type": "zenith_attributes:crit_chance",
             "modifier": {
                 "name": "tiered:legendary_melee_1",
                 "operation": "ADDITION",
-                "amount": 2
+                "amount": 0.08
             },
             "optional_equipment_slots": [
                 "MAINHAND"

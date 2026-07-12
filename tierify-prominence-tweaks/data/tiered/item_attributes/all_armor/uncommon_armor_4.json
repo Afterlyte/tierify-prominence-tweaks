@@ -24,7 +24,7 @@
             "modifier": {
                 "name": "tiered:uncommon_armor_4",
                 "operation": "ADDITION",
-                "amount": -1
+                "amount": 1
             },
             "optional_equipment_slots": [
                 "FEET",
@@ -34,11 +34,11 @@
             ]
         },
         {
-            "type": "generic.armor_toughness",
+            "type": "generic.movement_speed",
             "modifier": {
                 "name": "tiered:uncommon_armor_4",
-                "operation": "ADDITION",
-                "amount": 1
+                "operation": "MULTIPLY_BASE",
+                "amount": 0.01
             },
             "optional_equipment_slots": [
                 "FEET",

@@ -29,11 +29,11 @@
     },
     "attributes": [
         {
-            "type": "tiered:generic.durable",
+            "type": "tiered:generic.dig_speed",
             "modifier": {
                 "name": "tiered:mythic_tool_1",
                 "operation": "MULTIPLY_BASE",
-                "amount": 0.5
+                "amount": 0.3
             },
             "optional_equipment_slots": [
                 "MAINHAND"
@@ -45,17 +45,6 @@
                 "name": "tiered:mythic_tool_1",
                 "operation": "MULTIPLY_BASE",
                 "amount": 0.1
-            },
-            "optional_equipment_slots": [
-                "MAINHAND"
-            ]
-        },
-        {
-            "type": "reach-entity-attributes:reach",
-            "modifier": {
-                "name": "tiered:mythic_tool_1",
-                "operation": "ADDITION",
-                "amount": 3
             },
             "optional_equipment_slots": [
                 "MAINHAND"

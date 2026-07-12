@@ -34,20 +34,6 @@
             ]
         },
         {
-            "type": "generic.armor_toughness",
-            "modifier": {
-                "name": "tiered:epic_armor_4",
-                "operation": "ADDITION",
-                "amount": 1
-            },
-            "optional_equipment_slots": [
-                "FEET",
-                "LEGS",
-                "CHEST",
-                "HEAD"
-            ]
-        },
-        {
             "type": "generic.movement_speed",
             "modifier": {
                 "name": "tiered:epic_armor_4",

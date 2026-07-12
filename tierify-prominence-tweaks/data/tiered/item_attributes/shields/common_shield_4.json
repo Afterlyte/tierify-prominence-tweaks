@@ -11,11 +11,23 @@
     },
     "attributes": [
         {
-            "type": "tiered:generic.durable",
+            "type": "generic.armor",
+            "modifier": {
+                "name": "tiered:common_shield_4",
+                "operation": "ADDITION",
+                "amount": -1
+            },
+            "optional_equipment_slots": [
+                "MAINHAND",
+                "OFFHAND"
+            ]
+        },
+        {
+            "type": "generic.movement_speed",
             "modifier": {
                 "name": "tiered:common_shield_4",
                 "operation": "MULTIPLY_BASE",
-                "amount": -0.2
+                "amount": -0.05
             },
             "optional_equipment_slots": [
                 "MAINHAND",
