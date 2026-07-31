@@ -12,6 +12,9 @@
         },
         {
             "tag": "paladins:wands"
+        },
+        {
+            "tag": "bards_rpg:two_mode_instrument"
         }
     ],
     "weight": 1,
