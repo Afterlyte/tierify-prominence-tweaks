@@ -1,0 +1,18 @@
+{
+    "items": [
+        "archers:netherite_shortbow",
+        "archers:netherite_longbow",
+        "archers:netherite_rapid_crossbow",
+        "archers:netherite_heavy_crossbow",
+        "archers:crystal_shortbow",
+        "archers:crystal_longbow",
+        "archers:ruby_rapid_crossbow",
+        "archers:ruby_heavy_crossbow",
+        "paladins:netherite_kite_shield",
+        "paladins:ruby_kite_shield",
+        "paladins:aeternium_kite_shield"
+    ],
+    "base": [
+        "minecraft:netherite_ingot"
+    ]
+}

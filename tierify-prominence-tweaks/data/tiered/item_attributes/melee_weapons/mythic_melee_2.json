@@ -3,6 +3,9 @@
     "verifiers": [
         {
             "tag": "c:swords"
+        },
+        {
+            "tag": "c:melee_weapons"
         }
     ],
     "weight": 1,

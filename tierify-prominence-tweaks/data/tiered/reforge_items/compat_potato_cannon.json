@@ -1,8 +1,0 @@
-{
-    "items": [
-        "create:potato_cannon"
-    ],
-    "base": [
-        "create:precision_mechanism"
-    ]
-}

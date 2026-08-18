@@ -1,0 +1,10 @@
+{
+    "items": [
+        "archers:royal_longbow",
+        "archers:heavy_crossbow",
+        "paladins:diamond_kite_shield"
+    ],
+    "base": [
+        "minecraft:diamond"
+    ]
+}
